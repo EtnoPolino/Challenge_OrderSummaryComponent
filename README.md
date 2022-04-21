@@ -13,7 +13,7 @@ My solution for the Order summary card.
 ### Links
 
 - Solution URL : [code](https://github.com/EtnoPolino/Challenge_OrderSummaryComponent.git)
-- Live Site URL : [demo]()
+- Live Site URL : [demo](https://etnopolino.github.io/Challenge_OrderSummaryComponent/)
 
 
 ### Built with
